@@ -22,6 +22,6 @@ Este proyecto es un análisis de datos enfocado en identificar los factores prin
 * Los clientes con múltiples servicios contratados simultáneamente están más fidelizados.
 
 ## 👨‍💻 Autor
-**Fernando Reynosa Vidal**
+**Fernando Jose Reynosa Vidal**
 Estudiante de Ingeniería en Sistemas Computacionales en la Universidad Tres Culturas.
 * GitHub: [Fernando5899](https://github.com/Fernando5899)
